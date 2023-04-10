@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | 2204410064 |
+| NIM | 21104410064 |
 | Nama Lengkap | Chakti Yanottama Padmasujianto |
 | Kelas | TI-4B |
